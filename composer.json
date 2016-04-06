@@ -1,0 +1,14 @@
+{
+    "name": "dieu/phinx",
+    "description": "My first Composer project",
+    "require": {
+        "monolog/monolog": "^1.18"
+    },
+    "authors": [
+        {
+            "name": "dieu",
+            "email": "dieunt@vnvalley.co"
+        }
+    ],
+    "minimum-stability": "dev"
+}
